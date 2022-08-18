@@ -7,4 +7,4 @@ A simple weather App application built with HTML, CSS, AND JavaScript. I used op
 ### Technologies Used
 HTML, CSS, and Javascript. 
 
-![](./screenshot.jpg)
+![](./Weather App/images/Screenshot (13).png)
